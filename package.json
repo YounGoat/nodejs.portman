@@ -12,17 +12,17 @@
         "test": "mocha"
     },
     "name": "portman",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "index.js",
     "keywords": [
         "port",
         "free-port"
     ],
-    "homepage": "https://github.com/YounGoat/nodejs.portman",
+    "homepage": "https://github.com/YounGoat/portman",
     "description": "Socket port manager.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YounGoat/nodejs.portman.git"
+        "url": "https://github.com/YounGoat/portman.git"
     },
     "author": {
         "name": "YounGoat",

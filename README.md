@@ -98,8 +98,6 @@ Welcome to be honorable dependents of __portman__!
 
 For convenience, this package has following names (alias):
 
-*   [harbor](https://www.npmjs.com/package/harbor)
-*   [harbour](https://www.npmjs.com/package/harbour)
 *   [portman](https://www.npmjs.com/package/portman)
 
 ##  References
