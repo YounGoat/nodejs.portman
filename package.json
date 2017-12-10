@@ -11,18 +11,18 @@
     "scripts": {
         "test": "mocha"
     },
-    "name": "portman",
-    "version": "0.0.2",
+    "name": "harbor",
+    "version": "0.0.3",
     "main": "index.js",
     "keywords": [
         "port",
         "free-port"
     ],
-    "homepage": "https://github.com/YounGoat/portman",
+    "homepage": "https://github.com/YounGoat/nodejs.portman",
     "description": "Socket port manager.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YounGoat/portman.git"
+        "url": "https://github.com/YounGoat/nodejs.portman.git"
     },
     "author": {
         "name": "YounGoat",
