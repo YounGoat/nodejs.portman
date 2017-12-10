@@ -1,0 +1,32 @@
+{
+    "bin": {},
+    "dependencies": {
+        "jinang": "^0.1.0",
+        "noda": "^0.1.2"
+    },
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "portman",
+    "version": "0.0.1",
+    "main": "index.js",
+    "keywords": [
+        "port",
+        "free-port"
+    ],
+    "homepage": "https://github.com/YounGoat/nodejs.portman",
+    "description": "Socket port manager.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/nodejs.portman.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
