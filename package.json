@@ -1,5 +1,7 @@
 {
-    "bin": {},
+    "bin": {
+        "portman": "bin/portman.js"
+    },
     "dependencies": {
         "jinang": "^0.1.0",
         "noda": "^0.1.2"

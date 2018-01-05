@@ -1,0 +1,9 @@
+
+NAME
+    portman - Socket port manager.
+
+SYNOPSIS
+    portman seekusable "<rangeCode>"
+
+EXAMPLES
+    portman seekusable ">=7000"
